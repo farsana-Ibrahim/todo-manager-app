@@ -1,3 +1,5 @@
+Todo Management Project
+
 Overview
 This project is a Todo Management Application that allows users to manage projects and associated todos with a user-friendly interface. Key features include creating, updating, marking, deleting todos, exporting project details as Markdown files, and authentication functionalities (signup, login, logout).
 
